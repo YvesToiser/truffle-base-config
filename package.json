@@ -1,0 +1,16 @@
+{
+  "name": "hard-hat-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "author": "Yves Toiser",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.9",
+    "dotenv": "^16.0.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
